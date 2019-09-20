@@ -7,7 +7,7 @@ const Navbar = () => {
       <a className="brand-logo">GoogleReads</a>
       <ul id="nav-mobile" className="right hide-on-med-and-down">
         <li><a href="/">Search</a></li>
-        <li><a href="#">Saved</a></li>
+        <li><a href="/books">Saved</a></li>
       </ul>
     </div>
   </nav>
